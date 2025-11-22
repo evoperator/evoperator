@@ -11,7 +11,7 @@ $${\color{Royalblue}{\textsf{7★}}}$$
 <div align="center">
   <img style="width: 40%" src="https://github-readme-stats.vercel.app/api?username=evoperator&show_icons=true&theme=transparent&hide_border=true&show=prs_merged&number_format=long&count_private=true&include_all_commits=true" alt="profile stats" title="profile stats">
   <!-- <img style="width:40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evoperator&layout=compact&theme=transparent&hide_border=true"/> -->
-  <br><a href="https://www.codewars.com/users/evoperator"><img src="https://www.codewars.com/users/evoperator/badges/large"></a>
+  <br><a target="_blank" href="https://www.codewars.com/users/evoperator"><img src="https://www.codewars.com/users/evoperator/badges/large"></a>
 </div>
 
 $${\color{cyan}{\textsf{6★}}}$$
@@ -42,7 +42,7 @@ $${\color{Yellow}{\textsf{3★}}}$$
 $${\color{greenyellow}{\textsf{2★}}}$$
 <p align="center">
   My favorite video about programming:<br>
-  <a href="https://youtu.be/6avJHaC3C2U">
+  <a target="_blank" href="https://youtu.be/6avJHaC3C2U">
     The Art of Code</a> - Dylan Beattie | NDC Conferences
 </p>
 
