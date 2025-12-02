@@ -48,10 +48,8 @@ $${\color{greenyellow}{\textsf{2★}}}$$
 
 $${\color{gray}{\textsf{1★}}}$$
 <p align="center">
-  <sup>No one knows but you will</sup>
-
-I like ∙ ∙ ∙<br>
-music ∙ exercising ∙ manhwa ∙ shopping
+  I like ∙ ∙ ∙<br>
+  music ∙ exercising ∙ manhwa ∙ shopping
 </p>
 
 <img style="width: 40%" src="https://github.com/user-attachments/assets/546f995d-5e2b-4520-975f-76940c8aa45e" alt="Nagi Seishiro Blue Lock"/>
